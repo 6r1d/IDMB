@@ -2,7 +2,12 @@
     "airdrop": [
         "token", "alert", "join", "claim", "take", "earn",
         "check", "start", "starts", "ultimate", "get",
-        "simple", "wallet", "ico", "easy"
+        "simple", "wallet", "ico", "easy", "booked", "gas"
+    ],
+    "drop": [
+        "token", "alert", "join", "claim", "take", "earn",
+        "check", "start", "starts", "ultimate", "get",
+        "simple", "wallet", "ico", "easy", "booked", "gas"
     ],
     "job": [
         "crypto", "get", "chance", "join",
