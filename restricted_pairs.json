@@ -1,13 +1,19 @@
 {
     "airdrop": [
-        "token", "alert", "join", "claim", "take", "earn",
-        "check", "start", "starts", "ultimate", "get",
-        "simple", "wallet", "ico", "easy", "booked", "gas"
+        "drop", "token", "tokens", "alert", "join", "claim",
+        "take", "earn", "check", "start", "starts", "ultimate",
+        "get", "simple", "wallet", "ico", "easy", "booked", "gas",
+        "network", "connect", "zero", "trust", "layer",
+        "chance", "scale", "program", "governance", "hurry",
+        "booked"
     ],
     "drop": [
-        "token", "alert", "join", "claim", "take", "earn",
-        "check", "start", "starts", "ultimate", "get",
-        "simple", "wallet", "ico", "easy", "booked", "gas"
+        "airdrop", "token", "tokens", "alert", "join", "claim",
+        "take", "earn", "check", "start", "starts", "ultimate",
+        "get", "simple", "wallet", "ico", "easy", "booked", "gas",
+        "network", "connect", "zero", "trust", "layer",
+        "chance", "scale", "program", "governance", "hurry",
+        "booked"
     ],
     "job": [
         "crypto", "get", "chance", "join",
@@ -28,5 +34,7 @@
         "digital", "exclusive", "undisclosed", "reports",
         "benefit", "benefited", "worth", "unpredictable",
         "vigilant", "danger", "misplace", "afford", "investing"
-    ]
+    ],
+    "income": ["gratitude", "insider", "link", "trading"],
+    "wallet": ["check", "your", "eligibility"]
 }
